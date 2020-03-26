@@ -1,0 +1,22 @@
+{
+  "name": "draft-bot",
+  "version": "1.0.0",
+  "description": "EHM draft bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orlando-Sanchez/draft-bot.git"
+  },
+  "author": "oms",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Orlando-Sanchez/draft-bot/issues"
+  },
+  "homepage": "https://github.com/Orlando-Sanchez/draft-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
