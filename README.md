@@ -1,1 +1,1 @@
-# draft-bot
+This is a Discord bot for the Draft in the multiplayer game Eastside Hockey Manager.
